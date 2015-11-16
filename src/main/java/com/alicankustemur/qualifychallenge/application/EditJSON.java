@@ -1,4 +1,4 @@
-package com.alicankustemur.vngrschallenge.application;
+package com.alicankustemur.qualifychallenge.application;
 
 import java.io.File;
 import java.io.FileNotFoundException;

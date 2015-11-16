@@ -1,4 +1,4 @@
-package com.alicankustemur.vngrschallenge.application;
+package com.alicankustemur.qualifychallenge.application;
 
 public class TwoGen<T, Y>
 {
